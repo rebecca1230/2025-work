@@ -16,7 +16,7 @@ Creating tables for Medium
             width: 100%;
             border-collapse: collapse;
             margin: 20px 0;
-            font-size: 18px;
+            font-size: 16px;
             text-align: left;
         }
         th, td {
@@ -55,20 +55,15 @@ Creating tables for Medium
         <td>Carbon neutrality by 2050</td>
     </tr>
     <tr>
-        <td>Target Type</td>
-        <td>Economy-wide absolute target</td>
-        <td>Economy-wide absolute target</td>
-    </tr>
-    <tr>
-        <td rowspan="3"><strong>Mitigation Strategies</strong></td>
-        <td>Energy Sector Focus</td>
-        <td>Energy efficiency, renewables, nuclear, hydrogen & ammonia, CCS/CCUS</td>
-        <td>Renewables (hydro, wind, solar), phase-out fossil fuels</td>
-    </tr>
-    <tr>
         <td>Renewable Energy Target</td>
         <td>36-38% renewable electricity by 2030</td>
         <td>At least 50% renewable electricity by 2030</td>
+    </tr>
+    <tr>
+        <td rowspan="2"><strong>Mitigation Strategies</strong></td>
+        <td>Energy Sector Focus</td>
+        <td>Energy efficiency, renewables, nuclear, hydrogen & ammonia, CCS/CCUS</td>
+        <td>Renewables (hydro, wind, solar), phase-out fossil fuels</td>
     </tr>
     <tr>
         <td>Role of Market Mechanisms</td>
