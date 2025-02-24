@@ -38,7 +38,7 @@ Creating tables for Medium
 
 <table>
     <tr>
-        <th>Aspect</th>
+        <th></th>
         <th>Aspect</th>
         <th>Japan</th>
         <th>Montenegro</th>
@@ -164,7 +164,7 @@ Creating tables for Medium
 
 <table>
     <tr>
-        <th>Category</th>
+        <th>Title</th>
         <th>Aspect</th>
         <th>Japan</th>
         <th>Montenegro</th>
