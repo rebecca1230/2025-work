@@ -38,7 +38,7 @@ Creating tables for Medium
 
 <table>
     <tr>
-        <th>Category</th>
+        <th>Aspect</th>
         <th>Aspect</th>
         <th>Japan</th>
         <th>Montenegro</th>
@@ -104,5 +104,66 @@ Creating tables for Medium
     </tr>
 </table>
 
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NDC Comparison: Japan vs Montenegro</title>
+    <style>
+        body {
+            font-family: 'Inter', Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 40px;
+            padding: 20px;
+        }
+        h2 {
+            text-align: center;
+            color: #333;
+            font-size: 22px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            background: white;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+            overflow: hidden;
+            font-size: 14px;
+        }
+        th, td {
+            padding: 12px;
+            border: 1px solid #ddd;
+            text-align: left;
+        }
+        th {
+            background-color: #2c3e50;
+            color: white;
+            font-weight: bold;
+        }
+        td {
+            color: #333;
+        }
+        tr:nth-child(even) {
+            background-color: #f8f9fa;
+        }
+        tr:hover {
+            background-color: #e3f2fd;
+        }
+        td:first-child {
+            font-weight: bold;
+            background-color: #e9ecef;
+        }
+    </style>
+</head>
+<body>
+
+</body>
+</html>
 </body>
 </html>
