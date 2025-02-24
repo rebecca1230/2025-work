@@ -92,28 +92,6 @@ Creating tables for Medium
         <td>Integrated into Climate Change Strategy</td>
     </tr>
     <tr>
-        <td rowspan="2"><strong>Use of Carbon Markets & Offsets</strong></td>
-        <td>Carbon Pricing Mechanisms</td>
-        <td>National ETS, Joint Crediting Mechanism (JCM)</td>
-        <td>No explicit carbon pricing mechanism</td>
-    </tr>
-    <tr>
-        <td>Article 6 Participation</td>
-        <td>Actively engaging in international cooperation</td>
-        <td>No commitment to international market mechanisms</td>
-    </tr>
-    <tr>
-        <td rowspan="2"><strong>Implementation & Monitoring</strong></td>
-        <td>MRV (Measurement, Reporting, Verification)</td>
-        <td>Established system, annual progress reporting</td>
-        <td>Plans to enhance MRV, not fully established</td>
-    </tr>
-    <tr>
-        <td>Institutional Framework</td>
-        <td>Government ministries coordinate, strong industry participation</td>
-        <td>Government-led, aligned with EU regulations</td>
-    </tr>
-    <tr>
         <td rowspan="3"><strong>Finance, Technology & Just Transition</strong></td>
         <td>Financial Needs & Sources</td>
         <td>Domestic & international investments in decarbonization</td>
