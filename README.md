@@ -198,8 +198,8 @@ Creating tables for Medium
     </tr>
     <tr>
         <td>Role of Market Mechanisms</td>
-        <td>Strong focus on Article 6 (carbon trading & JCM)</td>
-        <td>No explicit mention of using Article 6</td>
+        <td>Strong focus on using carbon credit mechanism</td>
+        <td>No explicit mention of using carbon credit mechanism</td>
     </tr>
     <tr>
         <td rowspan="3"><strong>Adaptation Measures</strong></td>
